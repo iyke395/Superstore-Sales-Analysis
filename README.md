@@ -165,3 +165,10 @@ Overall, Superstores was Profitable, Year On year there was Profit bigger than t
 Sales is expected to continue with this trend upwards if factors like Quantity and Sales are progressive, Then Increased Profit is assured
 
 ---
+
+## Power BI File & Link
+_An interactive Dashboard for my analysis on Power BI_
+
+https://app.powerbi.com/view?r=eyJrIjoiOTBlZDI4MjgtNzZmMy00YzFkLWIyMzEtNzNlMjM1ZTgyMzhkIiwidCI6IjYxNTAyNjk5LWYxNWMtNGYyOS1hYzA0LTgzYTEyOTkyYjAxYSJ9
+
+---
