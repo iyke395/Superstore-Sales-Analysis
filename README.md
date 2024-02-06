@@ -144,7 +144,8 @@ In this sales analysis there was a steady overall upward trend in Sales and Prof
 * Was Superstores Profitable?
 
 Overall, Superstores was Profitable, Year On year there was Profit bigger than the Last
-![Uploading Sum of sales by year.png…]()
+<img width="960" alt="Sum of sales by year" src="https://github.com/iyke395/Superstore-Sales-Analysis/assets/107223165/dfd94cfa-dd55-439d-8983-6035d3cdc05d">
+
 
 ---
 
