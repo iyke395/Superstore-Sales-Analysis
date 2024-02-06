@@ -64,6 +64,10 @@ Changing the data type of the variables to the Appropriate one
 
 ## Visualization:
 After cleaning of the data via power query, the data was then imported into Microsoft Power BI to build a dashboard that will help Superstores have an insight in their business .
+<img width="960" alt="PAGE 1" src="https://github.com/iyke395/Superstore-Sales-Analysis/assets/107223165/256b626b-202c-4f55-af92-19f3bf1ceea3">
+<img width="960" alt="PAGE 2" src="https://github.com/iyke395/Superstore-Sales-Analysis/assets/107223165/044fe876-76da-4a30-9fe0-4edba8d9738e">
+<img width="960" alt="PAGE 3" src="https://github.com/iyke395/Superstore-Sales-Analysis/assets/107223165/fc096068-2589-484f-a115-7582c4f3e129">
+
 
 ---
 
