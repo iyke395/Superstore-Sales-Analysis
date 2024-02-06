@@ -134,7 +134,7 @@ Overall, Superstores was Profitable, Year On year there was Profit bigger than t
 
 ---
 
-What is the sales forecast for the next two years?
+* What is the sales forecast for the next two years?
 
 Sales is expected to continue with this trend upwards if factors like Quantity and Sales are progressive, Then Increased Profit is assured
 
