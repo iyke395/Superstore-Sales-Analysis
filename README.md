@@ -8,7 +8,7 @@ They would like to know if they should target a particular region and customer s
 
 The data used for this analysis was provided by Sidehustle
 
-### Meta data
+### Meta data:
 Row ID => Unique ID for each row. 
 
 Order ID => Unique Order ID for each Customer.
