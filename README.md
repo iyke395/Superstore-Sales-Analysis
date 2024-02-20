@@ -78,7 +78,7 @@ After cleaning of the data via power query, the data was then imported into Micr
 
 * Top 5 states with the most sales?
 
-France($858,931), Germany, United Kingdom, Italy, Spain
+France($858,931), Germany, United Kingdom, Italy, Spain.
 
 <img width="960" alt="Sum of sales" src="https://github.com/iyke395/Superstore-Sales-Analysis/assets/107223165/dc621006-1ce1-4ea3-a907-1d132f2edf6d">
 
