@@ -63,7 +63,7 @@ Checking Data Integrity
 Changing the data type of the variables to the Appropriate one
 
 ## Visualization:
-After cleaning of the data via power query, the data was then imported into Microsoft Power BI to build a dashboard that will help Superstores have an insight in their business .
+After cleaning of the data via power query, the data was then imported into Microsoft Power BI to build a dashboard that will help Superstores have an insight in their business.
 
 <img width="960" alt="PAGE 1" src="https://github.com/iyke395/Superstore-Sales-Analysis/assets/107223165/256b626b-202c-4f55-af92-19f3bf1ceea3">
 
