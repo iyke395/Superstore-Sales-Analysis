@@ -31,7 +31,7 @@ City => City of residence of of the Customer.
 
 State => State of residence of the Customer.
 
-Postal Code => Postal Code of every Customer.
+Postal Code => Postal Code of every Customer
 
 Region => Region where the Customer belong.
 
