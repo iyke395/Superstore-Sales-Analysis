@@ -57,7 +57,7 @@ Profit => Profit/Loss incurred.
 
 ## Exploratory Data Analysis:
 The data set was explored and analyzed to determine the quality of the data. Some of the analysis carried out includes;
-Creating new entries from existing column
+Creating new entries from existing column.
 Removal of outliers
 Checking Data Integrity
 Changing the data type of the variables to the Appropriate one
