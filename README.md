@@ -6,7 +6,7 @@ They would like to know if they should target a particular region and customer s
 
 ## Data sourcing:
 
-The data used for this analysis was provided by SidehustleNG.,klld
+The data used for this analysis was provided by SidehustleNG.,kll
 
 ### Meta data:
 Row ID => Unique ID for each row.
