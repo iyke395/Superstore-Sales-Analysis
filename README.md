@@ -10,7 +10,7 @@ They would like to know if they should target a particular region and customer s
 The data used for this analysis was provided by SidehustleNG.
 
 ### Meta data:
-Row ID => Unique ID for each row.jnk
+Row ID => Unique ID for each row.jn
 
 Order ID => Unique Order ID for each Customer.
 
@@ -148,7 +148,7 @@ March ($17.8k)
 
 * What can be said about the Sales Trend?
 
-In this sales analysis there was a steady overall upward trend in Sales and Profit from 2018 to 2021
+In this sales analysis there was a steady overall Profitable trend in Sales and Profit from 2018 to 2021
 
 ---
 
