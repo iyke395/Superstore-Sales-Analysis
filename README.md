@@ -4,7 +4,7 @@
 This store wants to understand the best strategy to use so they can stay above the competition.
 They would like to know if they should target a particular region and customer segment as well as what product type and categories to focus on or if they should generally provide improvement on all aspects.
 
-## Data sourcing:vjhsbjdsjsc
+## Data sourcing:vjhsbjdsjs
 The data used for this analysis was provided by SidehustleNG.
 ### Meta data:
 Row ID => Unique ID for each row.
