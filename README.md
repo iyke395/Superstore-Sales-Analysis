@@ -1,4 +1,4 @@
-s# Superstore-Sales-Analysis
+# Superstore-Sales-Analysis
 
 ## About Project:
 This store wants to understand the best strategy to use so they can stay above the competition.
